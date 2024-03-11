@@ -15,8 +15,7 @@ ha_integration_type: hub
 ---
 
 [Haus-Bus.de](https://haus-bus.secure-stores.de/) is a manufacturer of smart home equipment based in Germany.
-This integration communicates to the [Haus-Bus LAN gateway](https://haus-bus.secure-stores.de/?showProduct=1)
-or any other Haus-Bus device equipped with a LAN port.
+This integration communicates to any of the Haus-Bus devices equipped with a LAN port.
 
 
 There is currently support for the following device types within Home Assistant:
